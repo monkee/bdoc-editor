@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bdoc>
+	<meta>
+		<author></author>
+		<title></title>
+		<tags>
+			<tag>你好</tag>
+			<tag>呃，好吧</tag>
+			<tag>呵呵</tag>
+		</tags>
+		<!-- Description -->
+		<desc><![CDATA[你说呢，好吧，都说这么做挺好的]]></desc>
+	</meta>
+	<body>
+		<h1>这是标题</h1>
+		<p>你说好，那就好，你说不好，那就不好</p>
+		<p>你说好，那就好，你说不好，那就不好</p>
+		<p>你说好，那就好，你说不好，那就不好</p>
+	</body>
+</bdoc>
